@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek Pandey
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itsme_abhi_?color=%231DA1F2&label=Follow%20%40%20Abhishek%20Pandey&logo=Twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/itsme_abhi_?color=%231DA1F2&label=Follow%20%40%20Abhishek%20Pandey&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student and Data Science Enthusiast!
 
