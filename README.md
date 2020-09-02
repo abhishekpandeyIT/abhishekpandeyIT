@@ -28,8 +28,6 @@
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftexcel.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][linkedin]
-<br />
-<br />
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/python.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/java.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/html5.svg" />][linkedin]
@@ -46,7 +44,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
  
-   <img align="left" alt="Abhishek Pandey's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhishekpandeyIT&show_icons=true&hide_border=true" />
+   <img align="left" alt="Abhishek Pandey's Github Stats" src="https://github-readme-stats.abhishekpandeyit.vercel.app/api?username=abhishekpandeyIT&show_icons=true&hide_border=true" />
 
 </details>
 
