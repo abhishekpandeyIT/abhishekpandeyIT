@@ -11,35 +11,31 @@
 - 🥅 2020 Goals: Learn all the latest technologies in Data Science and Machine Learning
 - ⚡ Fun fact: I love to draw and Cycling
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Abhishek Pandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abhishek Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="F:\Github_repo\abhishekpandeyIT\visual-studio-code-microsoft-visual-studio-source-code-editor-c-png-clip-art-thumbnail.png" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />][linkedin] 
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/github.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="excel.png" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftexcel.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
+<br />
+<br />
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/python.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/java.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/html5.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/css3.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/tableau.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/powerbi.svg" />][linkedin]
 
