@@ -26,14 +26,13 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://w0.pngwave.com/png/10/877/visual-studio-code-microsoft-visual-studio-source-code-editor-c-png-clip-art-thumbnail.png" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="F:\Github_repo\abhishekpandeyIT\visual-studio-code-microsoft-visual-studio-source-code-editor-c-png-clip-art-thumbnail.png" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />][linkedin] 
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/github.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftexcel.svg" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="excel.png" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][linkedin]
-<br />
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
