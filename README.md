@@ -10,6 +10,8 @@
 
 ### Connect with me:
 
+[linkedin](https://www.linkedin.com/in/abhishekpandeyit/)
+
 <br />
 
 ### Languages and Tools:
