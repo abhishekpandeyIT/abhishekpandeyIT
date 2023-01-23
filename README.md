@@ -1,21 +1,14 @@
 ### Hi there, I'm Abhishek Pandey
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/itsme_abhi_?color=%231DA1F2&label=Follow%20%40%20Abhishek%20Pandey&logo=Twitter&style=for-the-badge)
-
 ## I'm a Student and Data Science Enthusiast!
 
 - 🔭 I'm in permanent beta... learning, improving, evolving
-- 🌱 I’m currently learning everything 🤣
+- 🌱 At Present, I am enrolled in MBA from University of Delhi and working on a Deep Learning Model (You can say Startup)
 - 👯 I’m looking to contribute to Open Source Projects
-- 🥅 2020 Goals: Learn all the latest technologies in Data Science and Machine Learning
-- ⚡ Fun fact: I love to draw and Cycling
+- 🥅 2023 Goals: By the end of this Year My DL model will be in Market.My German and French will be Fluent.
+- ⚡ Fun fact: I love to draw and Cycling. Btw I can play Guitar Too.
 
 ### Connect with me:
-
-[<img align="left" alt="Abhishek Pandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Abhishek Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -55,7 +48,5 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/itsme_abhi_
 [linkedin]: https://www.linkedin.com/in/abhishekpandeyit/
-[Resume]: 
+[Resume]: https://drive.google.com/drive/folders/1pNf3EaxT6zUC4Y_TSSH9g9oCBHBkva08?usp=sharing
