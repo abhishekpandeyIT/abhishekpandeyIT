@@ -1,16 +1,13 @@
 <br clear="both">
 
-<h3>📫 Connect with me</h3>
-
 ###
-
 <div align="left">
 
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/abhishekpandeyit/)
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />](https://twitter.com/CosmicHindu)
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />](mailto:abhishekpandeyite@gmail.com)
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/a.graywood/)
-  [<img src="./assets/Threads App.svg" width="52" height="40" alt="Threads logo"  />](https://www.threads.net/@a.graywood)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />](https://www.linkedin.com/in/abhishekpandeyit/)
+  [<img src="./assets/TwitterX.svg" width="40" height="30" alt="twitter logo"  />](https://twitter.com/CosmicHindu)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />](mailto:abhishekpandeyite@gmail.com)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />](https://www.instagram.com/a.graywood/)
+  [<img src="./assets/Threads App.svg" width="40" height="30" alt="Threads logo"  />](https://www.threads.net/@a.graywood)
 </div>
 
 ###
@@ -23,6 +20,11 @@
 
 <h4 align="center">
 I'm a seasoned Software Engineer with a passion for full-stack development. Proficient in .NET, Python, JavaScript, and more, I thrive on crafting innovative solutions that drive business growth. With a knack for problem-solving and a commitment to staying at the forefront of technology, I'm here to collaborate, create, and make a meaningful impact in the world of software development."</h4>
+
+###
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishekpandeyIT.abhishekpandeyIT&left_text=Profile%20Views"  />
 
 ###
 
@@ -78,6 +80,6 @@ I'm a seasoned Software Engineer with a passion for full-stack development. Prof
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Show some ❤️ by starring some of the repositories! </h3>
 
 ###
