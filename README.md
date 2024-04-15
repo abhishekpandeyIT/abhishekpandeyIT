@@ -1,54 +1,89 @@
-### Hi there, I'm Abhishek Pandey
+<br clear="both">
 
-## I'm a Student and Data Science Enthusiast!
+###
+<h1>
+<div align="center">
+  Hello there! <img height="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  /> I'm Abhishek Pandey!
+</div> </h1>
 
-- 🔭 I'm in permanent beta... learning, improving, evolving
-- 🌱 At Present, I am enrolled in MBA from University of Delhi and working on a Deep Learning Model (You can say Startup)
-- 👯 I’m looking to contribute to Open Source Projects
-- 🥅 2023 Goals: By the end of this Year My DL model will be in Market.My German and French will be Fluent.
-- ⚡ Fun fact: I love to draw and Cycling. Btw I can play Guitar Too.
+###
 
-### Connect with me:
+<h4 align="center">
+I'm a seasoned Software Engineer with a passion for full-stack development. Proficient in .NET, Python, JavaScript, and more, I thrive on crafting innovative solutions that drive business growth. With a knack for problem-solving and a commitment to staying at the forefront of technology, I'm here to collaborate, create, and make a meaningful impact in the world of software development."</h4>
 
-[linkedin](https://www.linkedin.com/in/abhishekpandeyit/)
+###
+<h3>📫 Connect with me</h3>
 
-<br />
+###
 
-### Languages and Tools:
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/jupyter.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/tensorflow.svg" />][linkedin] 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/github.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftexcel.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/python.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/java.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/html5.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/css3.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/javascript.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/tableau.svg" />][linkedin]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://simpleicons.org/icons/powerbi.svg" />][linkedin]
+<div align="left">
+  <img href="https://www.linkedin.com/in/abhishekpandeyit/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img href="https://twitter.com/CosmicHindu" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="./assets/Threads App.svg" width="52" height="40" alt="Threads logo"  />
+</div>
 
-<br />
-<br />
+###
 
----
-<details>
-  <summary>:zap: Github Stats</summary>
- 
-   <img align="left" alt="Abhishek Pandey's Github Stats" src="https://my-deployment.abhishekpandeyit.vercel.app/api?username=abhishekpandeyIT&show_icons=true&hide_border=true" />
+<h3 align="left">🛠 Language and tools</h3>
 
-</details>
+###
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
- 
-   <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeyIT" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
 
-</details>
+###
 
-[linkedin]: https://www.linkedin.com/in/abhishekpandeyit/
-[Resume]: https://drive.google.com/drive/folders/1pNf3EaxT6zUC4Y_TSSH9g9oCBHBkva08?usp=sharing
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpandeyIT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpandeyIT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishekpandeyIT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=abhishekpandeyIT&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/snake.svg" alt="Snake animation" />
+
+###
