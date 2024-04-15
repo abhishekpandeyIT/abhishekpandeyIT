@@ -1,17 +1,5 @@
 <br clear="both">
 
-###
-<h1>
-<div align="center">
-  Hello there! <img height="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  /> I'm Abhishek Pandey!
-</div> </h1>
-
-###
-
-<h4 align="center">
-I'm a seasoned Software Engineer with a passion for full-stack development. Proficient in .NET, Python, JavaScript, and more, I thrive on crafting innovative solutions that drive business growth. With a knack for problem-solving and a commitment to staying at the forefront of technology, I'm here to collaborate, create, and make a meaningful impact in the world of software development."</h4>
-
-###
 <h3>📫 Connect with me</h3>
 
 ###
@@ -24,6 +12,17 @@ I'm a seasoned Software Engineer with a passion for full-stack development. Prof
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />](https://www.instagram.com/a.graywood/)
   [<img src="./assets/Threads App.svg" width="52" height="40" alt="Threads logo"  />](https://www.threads.net/@a.graywood)
 </div>
+
+###
+<h1>
+<div align="center">
+  Hello there! <img height="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  /> I'm Abhishek Pandey!
+</div> </h1>
+
+###
+
+<h4 align="center">
+I'm a seasoned Software Engineer with a passion for full-stack development. Proficient in .NET, Python, JavaScript, and more, I thrive on crafting innovative solutions that drive business growth. With a knack for problem-solving and a commitment to staying at the forefront of technology, I'm here to collaborate, create, and make a meaningful impact in the world of software development."</h4>
 
 ###
 
@@ -58,15 +57,9 @@ I'm a seasoned Software Engineer with a passion for full-stack development. Prof
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
 
 ###
