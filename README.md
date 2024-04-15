@@ -17,6 +17,11 @@ I'm a seasoned Software Engineer with a passion for full-stack development. Prof
 ###
 
 <div align="left">
+
+
+[![linkedin logo]([/assets/images/codey.jpg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg) 'linkedin logo')](https://codecademy.com)
+
+  
   ![<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>](https://www.linkedin.com/in/abhishekpandeyit/)
   <img href="https://twitter.com/CosmicHindu" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
