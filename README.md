@@ -4,7 +4,7 @@
 <div align="left">
 
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />](https://www.linkedin.com/in/abhishekpandeyit/)
-  [<img src="./assets/TwitterX.svg" width="40" height="30" alt="twitter logo"  />](https://twitter.com/CosmicHindu)
+  [<img src="./assets/TwitterPNG_LOGO.png" width="40" height="30" alt="twitter logo"  />](https://twitter.com/CosmicHindu)
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />](mailto:abhishekpandeyite@gmail.com)
   [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />](https://www.instagram.com/a.graywood/)
   [<img src="./assets/Threads App.svg" width="40" height="30" alt="Threads logo"  />](https://www.threads.net/@a.graywood)
