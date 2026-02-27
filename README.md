@@ -49,23 +49,24 @@ Engineering highly scalable, AI-proof architectures designed for tier-1 product 
 </div>
 
 ---
-
 ### 📊 `sys.telemetry.fetch_metrics()`
 
 <div align="center">
   <a href="https://github.com/abhishekpandeyIT">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeyIT&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpandeyIT&theme=matrix&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/abhishekpandeyIT">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeyIT&layout=compact&theme=matrix&hide_border=true&langs_count=5" alt="Top Languages" />
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekpandeyIT&theme=github_dark&bg_color=0D1117" alt="Profile Details" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=8&theme=matrix&hide_border=true" width="80%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=8&theme=matrix&hide_border=true&bg_color=0D1117" width="80%" alt="Activity Graph" />
 </div>
+
+<br>
 
 <div align="center">
   <picture>
@@ -74,7 +75,6 @@ Engineering highly scalable, AI-proof architectures designed for tier-1 product 
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 ---
 <div align="center">
   <code>End of Transmission.</code>
