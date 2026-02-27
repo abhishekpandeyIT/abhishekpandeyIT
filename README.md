@@ -65,16 +65,6 @@ Engineering highly scalable, AI-proof architectures designed for tier-1 product 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=8&theme=matrix&hide_border=true&bg_color=0D1117" width="80%" alt="Activity Graph" />
 </div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekpandeyIT/abhishekpandeyIT/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 ---
 <div align="center">
   <code>End of Transmission.</code>
