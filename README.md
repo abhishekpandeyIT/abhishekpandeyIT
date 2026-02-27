@@ -1,85 +1,65 @@
-<br clear="both">
+<div align="center">
 
-###
-<div align="left">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=>+Initializing+System...;>+Loading+Abhishek_Pandey.profile...;>+Role:+Staff_Software_Engineer_%7C+Architect;>+Focus:+Cloud-Native,+Distributed_Systems;>+Advantage:+Bridging_Complex_Tech_%26_Financial_Algorithms;>+System_Ready._" alt="Typing SVG" />
+</a>
 
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />](https://www.linkedin.com/in/abhishekpandeyit/)
-  [<img src="./assets/TwitterPNG_LOGO.png" width="40" height="30" alt="twitter logo"  />](https://twitter.com/CosmicHindu)
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />](mailto:abhishekpandeyite@gmail.com)
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />](https://www.instagram.com/a.graywood/)
-  [<img src="./assets/Threads App.svg" width="40" height="30" alt="Threads logo"  />](https://www.threads.net/@a.graywood)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekpandeyit/"><img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/CosmicHindu"><img src="https://img.shields.io/badge/Execute-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"/></a>
+  <a href="mailto:abhishekpandeyite@gmail.com"><img src="https://img.shields.io/badge/Ping-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail"/></a>
+</p>
+
 </div>
 
-###
-<h1>
-<div align="center">
-  Hello there! <img height="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  /> I'm Abhishek Pandey!
-</div> </h1>
+---
 
-###
+### 🟢 `sys.status.get_active_processes()`
 
-<h4 align="center">
-I'm a seasoned Software Engineer with a passion for full-stack development. Proficient in .NET, Python, JavaScript, and more, I thrive on crafting innovative solutions that drive business growth. With a knack for problem-solving and a commitment to staying at the forefront of technology, I'm here to collaborate, create, and make a meaningful impact in the world of software development."</h4>
+As a Staff Engineer, I engineer scalable systems and architect solutions that drive tangible business growth. I am currently deep-diving into AI-proof cloud infrastructures while balancing intensive personal builds.
 
-###
+> **Current Daemons Running:**
+> * `PID 1997` : Architecting a highly scalable personal financial planning platform.
+> * `PID 2026` : Mastering container orchestration pipelines (`Docker`, `Kubernetes`).
+> * `PID 8080` : Compiling technical and personal philosophies into my first book manuscript.
 
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishekpandeyIT.abhishekpandeyIT&left_text=Profile%20Views"  />
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🧠 `sys.capabilities.load_neural_pathways()`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpandeyIT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpandeyIT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhishekpandeyIT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=abhishekpandeyIT&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <code><b>[CORE_ENGINEERING]</b></code><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,nodejs&theme=dark" />
+  </a>
+  <br><br>
+  
+  <code><b>[INFRASTRUCTURE_&_DATA]</b></code><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,sql,mongodb,git&theme=dark" />
+  </a>
 </div>
 
-###
+---
 
-<h3 align="center">Show some ❤️ by starring some of the repositories! </h3>
+### 📊 `sys.telemetry.fetch_metrics()`
 
-###
+<div align="center">
+  <a href="https://github.com/abhishekpandeyIT">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekpandeyIT&show_icons=true&theme=react&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/abhishekpandeyIT">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpandeyIT&layout=compact&theme=react&bg_color=000000&title_color=00FF41&text_color=FFFFFF&hide_border=true&langs_count=5" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekpandeyIT&radius=8&theme=react&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" width="80%" alt="Activity Graph" />
+</div>
+
+---
+<div align="center">
+  <code>End of Transmission.</code>
+</div>
